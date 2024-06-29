@@ -1,0 +1,10 @@
+@import "../../styles/layout.scss";
+
+.section {
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+.main {
+  padding: $layout-padding;
+}
